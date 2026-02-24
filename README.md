@@ -11,7 +11,7 @@ In this version, the ice is not slippery. The agent's movements are 100% predict
 
 `1- Q-Learning (FrozenLake_deterministic).py`
 
-![FrozenLake Deterministic](1-%20FrozenLake_deterministic.gif)
+<img src="1-%20FrozenLake_deterministic.gif" alt="FrozenLake Deterministic" width="400">
 
 ---
 
@@ -20,7 +20,7 @@ Here, the `is_slippery` parameter is enabled. The agent might slide in a differe
 
 `2- Q-Learning (FrozenLake_stochastic).py`
 
-![FrozenLake Stochastic](2-%20FrozenLake_stochastic.gif)
+<img src="2-%20FrozenLake_stochastic.gif" alt="FrozenLake Stochastic" width="400">
 
 ---
 
@@ -29,7 +29,7 @@ A grid-world challenge where the agent must reach the goal while avoiding a clif
 
 `3- Q-Learning (CliffWalking).py`
 
-![CliffWalking](3-%20CliffWalking.gif)
+<img src="3-%20CliffWalking.gif" alt="Cliff Walking" width="400">
 
 ---
 
@@ -38,4 +38,4 @@ The agent must pick up a passenger at one location and drop them off at another.
 
 `4- Q-Learning (Taxi).py`
 
-![Taxi](4-%20taxi_agent.gif)
+<img src="4-%20taxi_agent.gif" alt="Taxi Agent" width="400">
